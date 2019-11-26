@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hi i am NinhC
 Chang son Thach That Ha Noi
+=======
+>>>>>>> parent of 7ae715e... Add NinhC.txt chance
