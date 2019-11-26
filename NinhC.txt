@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi i am NinhC
 Chang son Thach That Ha Noi
 =======
@@ -7,3 +8,5 @@ Chang son Thach That Ha Noi
 =======
 Hi i am NinhC
 >>>>>>> parent of 81b4911... Add address
+=======
+>>>>>>> parent of 7ae715e... Add NinhC.txt chance
